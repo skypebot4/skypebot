@@ -17,6 +17,8 @@ Note* This application is mainly for anti-spam. You are solely responsible for c
 7. click launch
 
 8. in the skype windows click allow access
+    ![idea_00](pic/fig1.png)
+
 
 9. add contact number
 
