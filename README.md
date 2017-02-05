@@ -6,7 +6,7 @@ Note* This application is mainly for anti-spam. You are solely responsible for c
 
 2. register, login, add skype credit
 
-3. unzip bin.zip
+3. unzip bin.zip and click SkypeBot.exe to launch
 
 4. agree the legal statement
 
