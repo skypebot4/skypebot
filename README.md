@@ -2,6 +2,9 @@
 Note* This application is mainly for anti-spam. You are solely responsible for compliance with the laws and regulations applicable to your place or country of residence and accessing this application from any country where its content does not comply with its laws and regulations is prohibited. 
 
 # Usage:
+
+*important: Do not update and use another version of skype
+
 1. install skype - double click SkypeSetupFull.exe
 
 2. register, login, add skype credit
