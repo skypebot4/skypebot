@@ -30,7 +30,7 @@ Note* This application is mainly for anti-spam. You are solely responsible for c
 
 10. select contact number
 
-    ![idea_03](pic/fig4.png)
+   ![idea_03](pic/fig4.jpg)
 
 
 
