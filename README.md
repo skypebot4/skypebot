@@ -22,7 +22,18 @@ Note* This application is mainly for anti-spam. You are solely responsible for c
 
 9. add contact number
 
+    ![idea_00](pic/fig2.png)
+
+        ![idea_00](pic/fig3.png)
+
+
+
 10. select contact number
+
+    ![idea_00](pic/fig4.png)
+
+
+
 
 11. click start
 
